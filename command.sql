@@ -122,6 +122,33 @@ values
     ('Dick Grayson', 'Nightwing', 'Acrobatics', 3, 5)
 ;
 
+    QL6)
+
+select * from teams as t
+where t.id > 1 and t.id < 4;
+
+select * from heroes as h
+where h.team_id > 1 and h.team_id < 4;
+
+
+select * from teams as t
+join heroes as h
+on t.id = h.team_id
+where t.id > 1 and t.id < 4;
+
+
+select t.name as "Team Name", t.objectives as "Team Objectives", h.name as "Superhero", h.alias, h.superpower from teams as t
+inner join heroes as h
+on t.id = h.team_id
+where t.id > 1 and t.id < 4;
+
+
+
+    QLC)
+
+
+
+    
 
 
 
