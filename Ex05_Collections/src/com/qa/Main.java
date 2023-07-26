@@ -67,8 +67,7 @@ public class Main {
 
         System.out.println("TreeMap");
         for (String key : tree.keySet()){
-            System.out.println("Key: " + key + " Value: " +
-                    tree.get(key));
+            System.out.println("Key: " + key + " Value: " + tree.get(key));
         }
     }
 }
