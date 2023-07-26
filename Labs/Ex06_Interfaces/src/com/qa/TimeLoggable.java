@@ -6,6 +6,6 @@ public interface TimeLoggable extends Loggable {
     @Override
     default void log(String message){
 
-        System.out.println( LocalDateTime.now() + message );
+        System.out.println( LocalDateTime.now() + " " + message );
     }
 }
