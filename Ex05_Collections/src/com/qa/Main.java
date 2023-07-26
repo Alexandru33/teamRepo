@@ -1,6 +1,7 @@
 package com.qa;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
@@ -74,6 +75,12 @@ public class Main {
         System.out.println("Found Spot in the HashMap: " +
                 animalMap.get("Spot"));
 
+        Collections.sort(animalList);
+        System.out.println("Sorted animal list");
+        for (int x = 0; x < animalList.size(); x++) {
+            System.out.println(animalList.get(x));
+        }
+        
         TreeMap<String, Animal> tree = new TreeMap<>();
         tree.putAll(animalMap);
         System.out.println("TreeMap");
