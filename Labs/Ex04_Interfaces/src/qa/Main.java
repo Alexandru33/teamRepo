@@ -9,7 +9,7 @@ public class Main {
         c.move(10.5, 4.3);
         System.out.println(("Circle location after move: " + c.getCurrentLocation()));
         System.out.println();
-        
+
 
         Circle c2 = new Circle ("circle2", "blue", 10,10, 5);
 
