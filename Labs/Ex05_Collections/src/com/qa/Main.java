@@ -2,10 +2,7 @@ package com.qa;
 
 import com.qa.model.*;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Iterator;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -24,6 +21,8 @@ public class Main {
         animalList.add(d);
         animalList.add(r);
         animalList.add(r2);
+
+        Collections.sort(animalList);
 
         /*
         for ( int i=0; i < animalList.size(); i++)
@@ -76,13 +75,25 @@ public class Main {
         hset.add(c);
         hset.add(c);
 
+
+
        Iterator<Animal> setit = hset.iterator();
 
-       while (setit.hasNext())
-       {
+       while (setit.hasNext()) {
            System.out.println(setit.next());
        }
+        System.out.println();
 
-       
+
+
+
+       SortedSet<Animal> sortedSet = new TreeSet<>();
+       sortedSet.addAll(animalList);
+
+        System.out.println(sortedSet);
+
+
+
+
     }
 }
