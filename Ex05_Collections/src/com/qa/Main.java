@@ -5,11 +5,7 @@ import com.qa.model.Cat;
 import com.qa.model.Dog;
 import com.qa.model.Rabbit;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Collections;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -58,11 +54,21 @@ public class Main {
             System.out.println(iter.next());
         }
 
-        // Compare
+        // Comparison
         Collections.sort(animalList);
         System.out.println("\nSorted animal list");
         for (int x = 0; x < animalList.size(); x++){
             System.out.println(animalList.get(x));
+        }
+
+        // TreeMap
+        TreeMap<String, Animal> tree = new TreeMap<>();
+        tree.putAll(animalMap);
+
+        System.out.println("TreeMap");
+        for (String key : tree.keySet()){
+            System.out.println("Key: " + key + " Value: " +
+                    tree.get(key));
         }
     }
 }
