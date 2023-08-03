@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net" modified="2023-08-03T10:46:17.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="UhyWQia2fwcRjMbY-NHv" version="21.3.4" type="device">
+  <diagram name="Pagina-1" id="sNSuALu-qFTI1EghHu_y">
+    <mxGraphModel dx="2049" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="730" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-2" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Navbar&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="690" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="175" y="230" width="670" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-7" value="All the BONDS I have access to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="930" y="120" width="730" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-29" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Navbar&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="950" y="130" width="690" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="965" y="220" width="675" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Bond1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ISIN&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; CUSSIP&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ISSUER&amp;nbsp;&amp;nbsp;&amp;nbsp; COUNTERPARTY&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; MATURITY_DATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="260" width="575" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-35" value="Trade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="995" y="377.5" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-36" value="Trade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="522.5" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-37" value="Trade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="382.5" width="137.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-38" value="Trade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1407.5" y="525" width="145" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-39" value="Trade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1412.5" y="380" width="135" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-40" value="Trade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="530" width="135" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TIgQBOG8vRANQlsA8QXd-56" target="TIgQBOG8vRANQlsA8QXd-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="360" />
+              <mxPoint x="70" y="980" />
+              <mxPoint x="1295" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-56" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Bond1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; MATURITY_DATE&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;(hidden by a &quot;see more&quot; button&quot; &amp;nbsp;{ ISIN&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; CUSSIP&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ISSUER COUNTERPARTY }&lt;/div&gt; " style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="320" width="585" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-57" value="Bond2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="440" width="585" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-58" value="Bond3" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="570" width="585" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-61" value="Hello, alex@email.com!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-62" value="Hello, alex@email.com!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-63" value="Sign out" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="765" y="145" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-64" value="Sign out" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="135" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TIgQBOG8vRANQlsA8QXd-65" target="TIgQBOG8vRANQlsA8QXd-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1480" y="50" />
+              <mxPoint x="492" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-65" value="Main Page" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="135" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIgQBOG8vRANQlsA8QXd-68" value="Date Picker for BONDS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
