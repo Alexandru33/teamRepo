@@ -1,0 +1,22 @@
+
+
+Sharescreen:
+
+Book = tradebook
+User ----- Book is many-to-many (table book(id, name), user(name,email,role) , counterparty, book_user, security
+
+
+Security 1 -------- * trade 
+11 trades for a single security. a security has a uniq cusip and an uniq issuer name.
+security ( id, isin , issuer_name , 
+trade ( id, book_id, security_id, 
+
+
+Counnterparty = bond holder
+
+
+
+User has hard-coded trading books
+
+
+1 row of the .csv file =  1 TRADE
